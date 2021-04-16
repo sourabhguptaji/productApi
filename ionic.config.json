@@ -1,0 +1,7 @@
+{
+  "name": "productApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
